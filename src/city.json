@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Amaravati"
+    },
+    {
+        "id": 2,
+        "name": "Visakhapatnam"
+    },
+    {
+        "id": 3,
+        "name": "Vijayawada"
+    },
+    {
+        "id": 4,
+        "name": "Guntur"
+    },
+    {
+        "id": 5,
+        "name": "Nellore"
+    },
+    {
+        "id": 6,
+        "name": "Kakinada"
+    },
+    {
+        "id": 7,
+        "name": "Tirupati"
+    },
+    {
+        "id": 8,
+        "name": "Rajahmundry"
+    },
+    {
+        "id": 9,
+        "name": "Anantapur"
+    },
+    {
+        "id": 10,
+        "name": "Kadapa"
+    },
+    {
+        "id": 11,
+        "name": "Chittoor"
+    },
+    {
+        "id": 12,
+        "name": "Eluru"
+    },
+    {
+        "id": 13,
+        "name": "Machilipatnam"
+    },
+    {
+        "id": 14,
+        "name": "Bhimavaram"
+    },
+    {
+        "id": 15,
+        "name": "Kurnool"
+    },
+    {
+        "id": 16,
+        "name": "Srikakulam"
+    },
+    {
+        "id": 17,
+        "name": "Vizianagaram"
+    },
+    {
+        "id": 18,
+        "name": "Ongole"
+    },
+    {
+        "id": 19,
+        "name": "Palnadu"
+    },
+    {
+        "id": 20,
+        "name": "Prakasam"
+    },
+    {
+        "id": 21,
+        "name": "Peddaganjam"
+    },
+    {
+        "id": 22,
+        "name": "Nandyal"
+    },
+    {
+        "id": 23,
+        "name": "Kavali"
+    },
+    {
+        "id": 24,
+        "name": "Narasaraopet"
+    },
+    {
+        "id": 25,
+        "name": "Adoni"
+    }
+]
