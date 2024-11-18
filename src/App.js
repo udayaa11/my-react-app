@@ -1595,10 +1595,8 @@ const App = () => {
   return (
     <div>
       <center>
-        <Controlled />
-
-
-        
+        <Controlled /> hiii udayyy are u 
+        <div></div>
       </center>
     </div>
   )

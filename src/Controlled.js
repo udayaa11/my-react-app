@@ -11,7 +11,7 @@ export const Controlled = () => {
   return (
     <div>
       <center>
-        name : {name} <br />
+        name : {name} <br /> controlled 
         <input type='text' onChange={(e) => setName(e.target.value)} /> <br />
         <Test changeHandler={(e) => setName(e.target.value)} />
       </center>
