@@ -1595,7 +1595,7 @@ const App = () => {
   return (
     <div>
       <center>
-        <Controlled />
+        <Controlled /> controlled
         <div></div>
       </center>
     </div>
