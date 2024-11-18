@@ -50,5 +50,5 @@ const Display = () => {
 
 export default Display
 
-// higher order component (hoc) ==>> zhigher component is  a function that takes a component and returns a new component
+// higher order component (hoc) ==>> higher component is  a function that takes a component and returns a new component
 
