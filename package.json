@@ -1,9 +1,4 @@
 {
-<<<<<<< HEAD
-  "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-=======
   "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
@@ -49,6 +44,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
->>>>>>> a80ac78 (Initialize project using Create React App)
   }
 }
